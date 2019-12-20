@@ -2,7 +2,7 @@
 
 ## Mid-term presentation: Study and Apply JIRA Sowtware
 
-Subject: Introduction to [Jira software](https://www.atlassian.com/software/jira) of [Alassian Company](https://www.atlassian.com/software/jira).
+Subject: Introduction to [Jira software](https://www.atlassian.com/software/jira) of [Alassian Company](https://www.atlassian.com).
 
 File name: 
 

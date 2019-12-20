@@ -4,11 +4,15 @@
 
 Subject: Introduction to Jira software of [Alassian Company](https://www.atlassian.com/software/jira).
 
-File name: Study & Apply JIRA.
+File name: 
 
-Format file: * .pptx.
+    Study & Apply JIRA.pptx
+    Intro JIRA Software.mp4
 
-Designed by software: Microsoft PowerPoint 2019.
+Designed by software: 
+
+    Microsoft PowerPoint 2019.
+    Camtassia 9
 
 Author: [An Ngo](https://www.facebook.com/ngocongan98), [Thuy Dao](https://www.facebook.com/thuydx.98).
 
